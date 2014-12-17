@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["d3.4n777@gmail.com"]
   spec.summary       = %q{Lumpy Space Princess Soundboard}
   spec.description   = %q{Lumpy Space Princess Soundboard}
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/notdevinclark/lumpy_space_princess"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
