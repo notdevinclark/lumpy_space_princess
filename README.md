@@ -1,24 +1,34 @@
 # LumpySpacePrincess
 
-TODO: Write a gem description
+A Lumpy Space Princess Soundboard.
+
+Available sounds:
+
+ * These Lumps
+ * My Beans!
+
+More sounds will be coming soon, if you know of a sound you would like to me add, please open an issue and I will look into adding it.
 
 ## Installation
 
-Add this line to your application's Gemfile:
-
-    gem 'lumpy_space_princess'
-
-And then execute:
-
-    $ bundle
-
-Or install it yourself as:
+Install it yourself as:
 
     $ gem install lumpy_space_princess
 
+And then execute it with:
+
+    $ lsp
+
 ## Usage
 
-TODO: Write usage instructions here
+On the command line type this line to bring up the application:
+
+    $ lsp
+
+This will bring up the options and available sounds to use.
+Typing in a sound's name after the main `lsp` command will play the sound:
+
+    $ lsp these lumps
 
 ## Contributing
 
