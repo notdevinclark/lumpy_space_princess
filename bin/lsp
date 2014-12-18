@@ -4,7 +4,8 @@ require 'sounder'
 require 'lumpy_space_princess'
 
 sounds = {
-  'these lumps' => 'these_lumps'
+  'these lumps' => 'these_lumps',
+  'my beans' => 'my_beans'
 }
 
 sound_files = {}
