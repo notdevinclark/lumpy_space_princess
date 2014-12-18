@@ -5,9 +5,9 @@ require 'lumpy_space_princess'
 
 sounds = {
   '2009' => '2009',
-  'don\'t yell at me' => 'dont_yell_at_me',
   'fun time' => 'fun_time',
   'lump off mom' => 'lump_off_mom',
+  'lumping yell at me' => 'lumping_yell_at_me',
   'my beans' => 'my_beans',
   'romantic tension' => 'romantic_tension',
   'smoking' => 'smoking',
