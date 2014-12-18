@@ -4,8 +4,14 @@ A Lumpy Space Princess Soundboard.
 
 Available sounds:
 
- * These Lumps
+ * 2009
+ * Don't Lumping Yell at Me!
+ * Fun Times
+ * Lump Off Mom!
  * My Beans!
+ * Romantic Tension
+ * Smoking
+ * These Lumps
 
 More sounds will be coming soon, if you know of a sound you would like to me add, please open an issue and I will look into adding it.
 
